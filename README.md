@@ -1,4 +1,4 @@
-# gauri_hiray_corider
+# gauri_hiray_corider_intern
 
 ## Hello sir/mam, thank you so much for considering my application, please run the above api.py code to run the API which you can test using Postman on port 8080.
 
